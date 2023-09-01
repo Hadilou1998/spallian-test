@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "# Objective",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadilou1998/spallian-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadilou1998/spallian-test/issues"
+  },
+  "homepage": "https://github.com/Hadilou1998/spallian-test#readme"
 }
