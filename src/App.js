@@ -1,9 +1,7 @@
 const App = () => {
   return (
     <div className="container">
-      <p>
-        Write your code here.
-      </p>
+      <p> Hello World!</p>
     </div>
   );
 }
