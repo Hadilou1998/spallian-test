@@ -5,9 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #00ff00;
 }
 
 .container {
   text-align: center;
   padding: 3rem 0;
+  color: blueviolet;
 }
