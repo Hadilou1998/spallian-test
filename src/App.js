@@ -46,7 +46,6 @@ class App extends React.Component
             </ol>
           ))
         }
-        <p> Hello World!</p>
       </div>
     );
   }
